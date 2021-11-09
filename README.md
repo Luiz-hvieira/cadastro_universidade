@@ -12,13 +12,13 @@ Implementação de um sistema de cadastros de uma universidade feito em Java, ca
 
 4. Sobrescrita de métodos como equals e toString .
 
-   ###### Pontos de melhora já mapeados para update futuro:
+###### Pontos de melhora já mapeados para update futuro:
 
-   - [ ] Tratamento de exceções para input.
+- [ ] Tratamento de exceções para input.
 
-   - [ ] Vínculo de universidade com disciplinas e cursos.
+- [ ] Vínculo de universidade com disciplinas e cursos.
 
-   - [ ] Cadastro dos dados angariados em banco de dados.
+- [ ] Cadastro dos dados angariados em banco de dados.
 
 
      
